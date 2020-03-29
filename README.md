@@ -12,11 +12,5 @@ Our code for this challenge was written in Python. For others to set up our proj
 
 4. To create accurate group ID’s we created a dictionary with keys set by the GroupID’s and the values set to lists of the PatientID’s
 
-Pranav Grover : 669-333-1847
-Omer Sasson: 408-8873922
-Amy Seo: 408-781-4636
-Emily Vainberg: 408-823-5677
-Edmund Zhi: 408-504-9111
-
 Devpost Link: https://devpost.com/software/patient-identifier
 
