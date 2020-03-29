@@ -1,7 +1,7 @@
 # LAhacks
 Patient Matching Challenge
 
-#Group Members
+Group Members
 - Pranav Grover
 - Omer Sasson 
 - Amy Seo
